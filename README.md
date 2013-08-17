@@ -1,6 +1,6 @@
 Computer Graphics
 =================
 
-Some practical exercises to learn Computer Graphics, using WebGL.
+Some practical exercises using WebGL to learn important Computer Graphics concepts.
 
 * Project 1
